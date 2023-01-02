@@ -4,6 +4,7 @@ const data=[
      thmlink:'https://wallpapermogul.com/image/medium/8tKN7xjAWCY6IaSrcUaGENNy9fr.jpg',
      description:'Walter White, a chemistry teacher, discovers that he has cancer and decides to get into the meth-making business to repay his medical debts.',
      movlink:'/watch:Breaking Bad'
+     genre:'action'
     },
     {name:'Peaky Blinders season1',
     link:'https://peakyblinders.tv/wp-content/uploads/2020/10/Official-Tie-in-Book-1.png',
