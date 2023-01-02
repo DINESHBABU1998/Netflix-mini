@@ -5,12 +5,12 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echa 'Building..'
+                echo 'Building..'
             }
         }
         stage('Test') {
             steps {
-                echa 'Testing..'
+                echo 'Testing..'
             }
         }
         stage('Deploy') {
