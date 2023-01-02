@@ -3,7 +3,7 @@ const data=[
      link:'https://wallpapermogul.com/image/medium/8tKN7xjAWCY6IaSrcUaGENNy9fr.jpg',
      thmlink:'https://wallpapermogul.com/image/medium/8tKN7xjAWCY6IaSrcUaGENNy9fr.jpg',
      description:'Walter White, a chemistry teacher, discovers that he has cancer and decides to get into the meth-making business to repay his medical debts.',
-     movlink:'/watch:Breaking Bad'
+     movlink:'/watch:Breaking Bad',
      genre:'action'
     },
     {name:'Peaky Blinders season1',
