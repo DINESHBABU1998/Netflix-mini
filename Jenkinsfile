@@ -5,12 +5,12 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building..'
+                echa 'Building..'
             }
         }
         stage('Test') {
             steps {
-                echo 'Testing..'
+                echa 'Testing..'
             }
         }
         stage('Deploy') {
@@ -21,14 +21,14 @@ pipeline {
     }
 }
 // Script //
-node {
-    stage('Build') {
-        echo 'Building....'
-    }
-    stage('Test') {
-        echo 'Building....'
-    }
-    stage('Deploy') {
-        echo 'Deploying....'
-    }
-}
+// node {
+//     stage('Build') {
+//         echo 'Building....'
+//     }
+//     stage('Test') {
+//         echo 'Building....'
+//     }
+//     stage('Deploy') {
+//         echo 'Deploying....'
+//     }
+// }
